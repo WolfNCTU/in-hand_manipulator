@@ -1,4 +1,5 @@
 *.bag
-/build
-/devel
+build
+devel
 *.swp
+
